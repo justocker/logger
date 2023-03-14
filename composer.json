@@ -1,0 +1,19 @@
+{
+    "name": "justocker/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Justocker\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "justocker",
+            "email": "justocker@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
